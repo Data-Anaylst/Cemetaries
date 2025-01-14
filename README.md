@@ -4,7 +4,7 @@ The city of Nashville provides a dataset of known burials in city cemeteries fro
 
 The Nashville City Cemetery Association has approached you asking to analyze some of their data. This analysis will be used to compare the attributes of The Nashville City Cemetery with other historic cemeteries throughout the country. Note that much of this data comes from handwritten record books, so watch out for inconsistencies, typographical errors, etc. They realize their data is messy and there will be times during your analysis in which you will need to decide how data cleaning will be handled. Be sure to explain your cleaning process and consider the pros and cons of your chosen method. The association realizes that completely cleaning the data would be too time intensive and they are willing to sacrifice some accuracy for speed.
 
-Before diving into the data, take some time to orient yourself to what each column contains here: [Nashville City Cemetery Metadata]([https://data.nashville.gov/api/views/diwx-fgj7/files/963c111e-2e2a-4133-a807-2becd590feb2?download=true&filename=Historic-Nashville-City-Cemetery-Interments-1846-1979-Metadata-v2.pdf](https://data.nashville.gov/datasets/d425904cf5a4433aa3b69f8c71018674_0/explore)).
+Before diving into the data, take some time to orient yourself to what each column contains here: [Nashville City Cemetery Metadata](https://data.nashville.gov/datasets/d425904cf5a4433aa3b69f8c71018674_0/explore).
 
 The questions that follow provide you with some guidance for the initial analysis of the data. As you are working, create a new sheet in your Excel file for each pivot table or analysis work done to create a visualization, and give each sheet a descriptive/meaningful name.
 
